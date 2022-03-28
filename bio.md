@@ -26,9 +26,9 @@ my interests are algorithmic composition, compositional systems, systemic modell
 
 yes, i have two youtube channels!
 
-[a channel for electric bass stuff, like covers and lesson videos;](https://www.youtube.com/c/punksterbass)
+**[a channel for electric bass stuff, like covers and lesson videos;](https://www.youtube.com/c/punksterbass)**
 
-[and a channel for serious, composer-y stuff.](https://www.youtube.com/channel/UCn91Bw-Qw4GqXaHAH4tpUIA)
+**[and a channel for serious, composer-y stuff.](https://www.youtube.com/channel/UCn91Bw-Qw4GqXaHAH4tpUIA)**
 
 ### e-mail me
 
