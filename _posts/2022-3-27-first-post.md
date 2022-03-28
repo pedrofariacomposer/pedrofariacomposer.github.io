@@ -7,7 +7,7 @@ hey, this looks different! yes, i've finally caved and started using jekyll for 
 
 ![eric larocca's you've lost a lot of blood](/images/larocca.png "eric larocca's you've lost a lot of blood")
 
-my second book from this author, the first one being **[things have gotten worse since we've last spoke](https://www.amazon.com/Things-Gotten-Worse-Since-Spoke/dp/B098TYDYTY/ref=sr_1_2?qid=1648429801&refinements=p_27%3AEric+Larocca&s=books&sr=1-2&text=Eric+Larocca)**, i actually liked this one better, although they are mostly different.
+my second book from this author, the first one being **[things have gotten worse since we've last spoke](https://www.amazon.com/Things-Gotten-Worse-Since-Spoke/dp/B098TYDYTY/ref=sr_1_2?qid=1648429801&refinements=p_27%3AEric+Larocca&s=books&sr=1-2&text=Eric+Larocca)**; i actually liked this one better, although they are mostly different.
 
 i mean, both have an epistolary nature, and graphic and heavy imagery; but the reason i loved this one so much is because it left me with a lot of questions.
 
