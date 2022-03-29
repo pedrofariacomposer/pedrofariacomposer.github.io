@@ -3,7 +3,7 @@ layout: post
 title: changing the scenery and a book review!
 ---
 
-hey, this looks different! yes, i've finally caved and started using jekyll for formatting my site, and it's so easy to use, that i'm kicking myself for not using it sooner; anyways, here's a review for eric larocca's **[you've lost a lot of blood](https://www.amazon.com/Youve-Lost-Blood-Eric-Larocca/dp/1088025757/ref=sr_1_1?crid=2Z5YZWH3YNMOT&keywords=eric+larocca&qid=1648429552&sprefix=eric+laroc%2Caps%2C539&sr=8-1)**
+<p>hey, this looks different! yes, i've finally caved and started using jekyll for formatting my site, and it's so easy to use, that i'm kicking myself for not using it sooner; anyways, here's a review for eric larocca's **[you've lost a lot of blood](https://www.amazon.com/Youve-Lost-Blood-Eric-Larocca/dp/1088025757/ref=sr_1_1?crid=2Z5YZWH3YNMOT&keywords=eric+larocca&qid=1648429552&sprefix=eric+laroc%2Caps%2C539&sr=8-1)**</p>
 
 ![eric larocca's you've lost a lot of blood](/images/larocca.png "eric larocca's you've lost a lot of blood")
 
