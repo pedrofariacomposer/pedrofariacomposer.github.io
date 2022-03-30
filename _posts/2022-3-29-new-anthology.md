@@ -5,7 +5,7 @@ title: i have a story coming out on an anthology!
 
 <p>after a good while, i have a story coming out in a new anthology.</p>
 
-<p><img src="/images/anthology_cage.jpg" alt="nick cage anthology cover"></p>
+<img src="/images/anthology_cage.jpg" alt="nick cage anthology cover">
 
 <p>i really should be writing; i really like writing, and when i'm in the zone doing it, i actually write really quickly; but, i have serious attention problems, it's hard for me to actually sit down and do stuff.</p>
 
