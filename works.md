@@ -18,7 +18,7 @@ i'm really proud of it.
 
 #### mozão e eu (acoustic guitar, 2020)
 
-a piece based on two bars of mozart's eine kleine nachtmusik (yes, the two bars you're thinking of); i used a lot of processes and weird techniques to come up with this result, that was premiered by the incomparable **[fabio adour](https://www.youtube.com/channel/UC4ZhijE9myRsySJYRaZXpJA)**; [here's the premiere]**(https:\\www.youtube.com/watch?v=iWHJuHgGwUk)**, and **[here's the score following video.](https:\\www.youtube.com/watch?v=WzrLT5cld6g)**
+a piece based on two bars of mozart's eine kleine nachtmusik (yes, the two bars you're thinking of); i used a lot of processes and weird techniques to come up with this result, that was premiered by the incomparable **[fabio adour](https://www.youtube.com/channel/UC4ZhijE9myRsySJYRaZXpJA)**; **[here's the premiere](https:\\www.youtube.com/watch?v=iWHJuHgGwUk)**, and **[here's the score following video.](https:\\www.youtube.com/watch?v=WzrLT5cld6g)**
 
 #### uma ready-made sonata (electric bass, 2021)
 

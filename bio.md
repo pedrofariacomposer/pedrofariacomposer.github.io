@@ -14,7 +14,7 @@ he lives in rio de janeiro with his wife, their pets and the aforementioned inte
 
 ### academic stuff
 
-i have a bachelor's degree in mathematics from rio de janeiro state university (uerj, 2013), and a master's degree from rio de janeiro federal university (ufrj, 2022), where i studied under prof. liduino pitombeira.
+i have a bachelor's degree in mathematics from rio de janeiro state university (uerj, 2013), and a master's degree in music from rio de janeiro federal university (ufrj, 2022), where i studied under prof. liduino pitombeira.
 
 also i've studied with arthur kampela and wladimir tourinho.
 
