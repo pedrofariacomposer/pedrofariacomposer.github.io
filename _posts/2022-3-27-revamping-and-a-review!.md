@@ -5,7 +5,7 @@ title: changing the scenery and a book review!
 
 <p>hey, this looks different! yes, i've finally caved and started using jekyll for formatting my site, and it's so easy to use, that i'm kicking myself for not using it sooner; anyways, here's a review for eric larocca's <a href="https://www.amazon.com/Youve-Lost-Blood-Eric-Larocca/dp/1088025757/ref=sr_1_1?crid=2Z5YZWH3YNMOT&keywords=eric+larocca&qid=1648429552&sprefix=eric+laroc%2Caps%2C539&sr=8-1>">you've lost a lot of blood</a></p>
 
-<p><img src="/images/larocca.png" alt="eric larocca's you've lost a lot of blood">
+<p><img src="/images/larocca.png" alt="eric larocca's you've lost a lot of blood"></p>
 
 <p>my second book from this author, the first one being <a href="https://www.amazon.com/Things-Gotten-Worse-Since-Spoke/dp/B098TYDYTY/ref=sr_1_2?qid=1648429801&refinements=p_27%3AEric+Larocca&s=books&sr=1-2&text=Eric+Larocca">things have gotten worse since we've last spoke</a>; i actually liked this one better, although they are mostly different.</p>
 
