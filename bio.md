@@ -4,7 +4,7 @@ title: bio
 permalink: /bio/
 ---
 
-### release
+## release
 
 Pedro Faria (he/him, b.1989, formerly known as Pedro Proença) is a composer, electric bassist, writer, public servant and meme enthusiast from Rio de Janeiro, Brasil.
             
@@ -12,7 +12,7 @@ His music is described by the rats on his walls as "please, don't put us through
             
 He lives in Rio de Janeiro with his wife, their pets and the aforementioned interview-hating rats.
 
-### academic stuff
+## academic stuff
 
 I have a Bachelor's Degree in Mathematics from Rio de Janeiro State University (UERJ, 2013), and a Master's Degree in Music from Rio de Janeiro Federal University (UFRJ, 2022), where I studied under Prof. Dr. Liduino Pitombeira.
 
@@ -22,7 +22,7 @@ I began my musical life as a bassist for several bands here in Rio, and only aft
 
 My interests are Algorithmic Composition, Compositional Systems, Systemic Modelling, and Intertextuality in general.
 
-### i'm also a youtuber!
+## i'm also a youtuber!
 
 Yes, i have two YouTube channels!
 
@@ -30,6 +30,6 @@ Yes, i have two YouTube channels!
 
 **[And a channel for serious, composer-y stuff.](https://www.youtube.com/channel/UCn91Bw-Qw4GqXaHAH4tpUIA)**
 
-### e-mail me
+## e-mail me
 
 [Just click here and send me an e-mail :)](mailto:pedrofaria1989@gmail.com)
