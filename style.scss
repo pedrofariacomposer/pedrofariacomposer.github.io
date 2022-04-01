@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $pink;
+  color: #FF10F0;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $pink;
+    color: #FF10F0;
   }
 }
 
@@ -225,7 +225,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $pinkt;
+    color: #FF10F0;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
