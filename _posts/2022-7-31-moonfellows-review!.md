@@ -18,3 +18,4 @@ title: book review - MOONFELLOWS, by Danger Slater
 <p>I know I'm making it sound like this book is some serious exploration of the true meaning of the American spirit...and it is. But it's packaged as a fun romp through space, in the likes of Méliès'A Trip to the Moon and The Martian. It's absurd and loveble, surreal and moving and sad. It's a great book.</p>
 <p> <a href="https://www.amazon.com/Moonfellows-Danger-Slater-ebook/dp/B0B5W14CT8/ref=sr_1_2?crid=11SQB47D9SXFO&keywords=Moonfellows&qid=1659310872&sprefix=moonfellow%2Caps%2C285&sr=8-2">Click here to buy Danger Slater's MOONFELLOWS</a></p>
 
+<p>Rating: 5/5 stars.</p>
