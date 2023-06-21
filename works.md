@@ -48,10 +48,20 @@ My only book (so far), this is a work in the **[Bizarro Fiction genre](https://w
 
 On most of these I'm credited as Pedro Proença, a name I don't use anymore.
 
-- **[Fireside Popsicles: Twisted Tales Told by the Fire (Fireside Press, 2014)](https:\\www.amazon.com/-/pt/dp/B00JM13SN4/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fireside+popsicles&qid=1630590651&sr=8-1)**
+- **[His Soul's Still Dancing: A Nicolas Cage Inspired Fiction Anthology (Ex-Parrot Press, 2023)](https://www.amazon.com/His-Souls-Still-Dancing-Anthology/dp/B0C1JCSS6M/ref=sr_1_1?crid=1L8SMAQ7ME7AH&keywords=His+Soul%27+Still+Dancing&qid=1687317779&rnid=2941120011&s=books&sprefix=his+soul%27+still+dancingh%2Caps%2C215&sr=1-1)**
 
-- HAMSTERS! A Fabulous Anthology (Dynatox Ministries, 2014, out of print)
+- **[More Bizarro than Bizarro (Bizarro Pulp Press, 2017)](https:\\www.amazon.com/-/pt/dp/B0763GCGD8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=more+bizarro+than+bizarro&qid=1630590874&sr=8-1)**
+
+- **[Weird Meat Buffet (Weekly Weird Monthly, 2017)](https://www.amazon.com/Weird-Meat-Buffet-Andrew-Hilbert-ebook/dp/B06XXY2BTP/ref=sr_1_1?crid=155FHLBU7I7TP&keywords=Weird+Meat+Buffet&qid=1687317907&s=books&sprefix=weird+meat+buffet%2Cstripbooks-intl-ship%2C220&sr=1-1)**
 
 - **[Wishing Weird (Fireside Press, 2016)](https:\\www.amazon.com/-/pt/dp/B01EK9BPXC/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=wishing+weird&qid=1630590796&sr=8-1)**
 
-- **[More Bizarro than Bizarro (Bizarro Pulp Press, 2017)](https:\\www.amazon.com/-/pt/dp/B0763GCGD8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=more+bizarro+than+bizarro&qid=1630590874&sr=8-1)**
+- HAMSTERS! A Fabulous Anthology (Dynatox Ministries, 2014, out of print)
+
+- **[Fireside Popsicles: Twisted Tales Told by the Fire (Fireside Press, 2014)](https:\\www.amazon.com/-/pt/dp/B00JM13SN4/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=fireside+popsicles&qid=1630590651&sr=8-1)**
+
+
+
+
+
+
